@@ -6,7 +6,7 @@ import java.util.List;
 // Java Async/Sync/threading related:
 // 1) What's the printed result
 // 2) "add" method signature, how to make it async?
-// 3) Refactor the code to get the result fast
+// 3) Refactor the code to get the result faster
 public class Quiz2 {
 
     public static void main(String[] args) {
